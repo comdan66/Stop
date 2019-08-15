@@ -1,0 +1,6 @@
+framework module Pods_StopUITests {
+  umbrella header "Pods-StopUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

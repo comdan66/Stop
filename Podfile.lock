@@ -1,0 +1,16 @@
+PODS:
+  - OAKit (0.0.7)
+
+DEPENDENCIES:
+  - OAKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - OAKit
+
+SPEC CHECKSUMS:
+  OAKit: 2c5f0ee4122beca56d0ac24f47189f08cc74efdb
+
+PODFILE CHECKSUM: 496867fa0e4c0b1589f996ec88b11e03d99e54fc
+
+COCOAPODS: 1.6.2
