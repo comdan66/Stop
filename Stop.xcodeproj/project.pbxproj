@@ -152,7 +152,6 @@
 				73D97E0965F44D4294995E96 /* Pods-StopUITests.debug.xcconfig */,
 				DD9EC26B1A3F1FCAB96D66DB /* Pods-StopUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -572,6 +571,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = V6T9TGS4ET;
 				INFOPLIST_FILE = Stop/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -591,6 +591,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = V6T9TGS4ET;
 				INFOPLIST_FILE = Stop/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
